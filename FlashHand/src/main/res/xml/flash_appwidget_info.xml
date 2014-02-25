@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minHeight="48dp"
+    android:minWidth="48dp"
+    android:updatePeriodMillis="18000000"
+    android:resizeMode="none"
+    android:previewImage="@drawable/button_normal_round"
+    android:initialLayout="@layout/flashlight_widget"
+    android:widgetCategory="home_screen|keyguard"
+    android:initialKeyguardLayout="@layout/flashlight_main">
+</appwidget-provider>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handy FlashLight</string>
+
+    <string name="app_description">Licht App</string>
+
+    <string name="menu_about_desc">über Handy Flashlight</string>
+
+    <string name="menu_about">über Handy Flashlight</string>
+
+    <string name="disclaimer">Leoparden gehen!</string>
+
+    <string name="credit">Erstellt von Frank Brenyah</string>
+
+    <string name="version">Version 1.7</string>
+
+    <string name="iconDescription">Symbol der Anwendung</string>
+
+    <string name="buttonDescription">Taste aktiviert off</string>
+
+    <string name="indicatorDescription">Deaktiviert Anzeige</string>
+
+    <string name="title_activity_flash_screen_">Rücklicht</string>
+
+    <string name="special_thanks">Dank…</string>
+
+    <string name="name_list">Professor Ray\nChavez Schwester\'s\nMama und Papa</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handy FlashLight</string>
+
+    <string name="app_description">Aplicación de Flashlight</string>
+
+    <string name="menu_about_desc">Acerca de Handy Flashlight</string>
+
+    <string name="menu_about">Acerca de Handy Flashlight</string>
+
+    <string name="disclaimer">Vamos Leopardos!</string>
+
+    <string name="credit">Creado por Frank Brenyah</string>
+
+    <string name="version">Version 1.7</string>
+
+    <string name="iconDescription">Símbolo de la aplicación</string>
+
+    <string name="buttonDescription">Botón activado off</string>
+
+    <string name="indicatorDescription">Indicador activado off</string>
+
+    <string name="title_activity_flash_screen_">Luz de la pantalla</string>
+
+    <string name="special_thanks">Gracias a…</string>
+
+    <string name="name_list">Profesor Ray\nChavez Hermana\'s\nMama and Papa</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">удобный фонарик</string>
+
+    <string name="app_description">вспышка света Применение</string>
+
+    <string name="menu_about_desc">О удобный фонарик</string>
+
+    <string name="menu_about">О удобный фонарик</string>
+
+    <string name="disclaimer">Перейти Леопарды!</string>
+
+    <string name="credit">Разработано Frank Brenyah</string>
+
+    <string name="version"> Версия 1.7</string>
+
+    <string name="iconDescription">The App Icon</string>
+
+    <string name="buttonDescription">вкл выкл кнопки</string>
+
+    <string name="indicatorDescription">На указательный</string>
+
+    <string name="title_activity_flash_screen_">подсветки экрана</string>
+
+    <string name="special_thanks">Благодаря ..</string>
+
+    <string name="name_list">Профессор Рэй\п Чавес Сестра \'ы\п мама и папа</string>
+
+</resources>
